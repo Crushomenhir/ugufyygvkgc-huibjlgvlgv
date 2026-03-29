@@ -6,7 +6,8 @@
 ---
 
 ### 🖼️ Screenshot
-![](screenshot.png)
+![image](https://github.com/user-attachments/assets/d8cb1d2a-947d-4caa-92bb-91d17add661f)
+
 
 ---
 
