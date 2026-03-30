@@ -1,13 +1,13 @@
 <div align="center">
 <br>
-<h1><small>— W I N D O W S &nbsp;·&nbsp; D E S K T O P —</small><br>LOSSLESS SCALING</h1>
-<em>Integer scaling and sharp upscaling for any Windows application</em>
+<h1><small><small>— W I N D O W S &nbsp;·&nbsp; D E S K T O P —</small></small><br>LOSSLESS SCALING</h1>
+<em>Integer scaling and frame generation for sharper visuals on any display</em>
 <br><br>
 <img src="https://img.shields.io/badge/platform-Windows-0d1117?style=flat-square&labelColor=21262d&logo=windows&logoColor=white" alt="platform"/>
 <img src="https://img.shields.io/badge/license-MIT-0d1117?style=flat-square&labelColor=21262d" alt="license"/>
 <img src="https://img.shields.io/badge/release-latest-0d1117?style=flat-square&labelColor=21262d" alt="release"/>
 <br><br>
-<a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/DOWNLOAD-238636?style=for-the-badge&logo=github&logoColor=white" alt="Download" height="45"/></a>
+<a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/DOWNLOAD-238636?style=for-the-badge&logo=github&logoColor=white" alt="Download" width="210" height="48"/></a>
 <br><br>
 </div>
 
@@ -16,11 +16,11 @@
 </div>
 <br>
 
-> Lossless Scaling is a lightweight desktop utility that applies high-quality integer and fractional scaling to any window or fullscreen application on Windows. It preserves pixel-perfect sharpness where possible and offers multiple algorithms for clean upscaling without introducing blur or artifacts. Ideal for retro games, older software, and any scenario where you need crisp enlargement beyond native resolution.
+> Lossless Scaling is a lightweight desktop utility that applies high-quality integer and fractional scaling to any application window. It also includes frame generation to increase perceived smoothness without introducing traditional upscaling artifacts. Designed for users who want crisp visuals on high-DPI or mismatched-resolution displays.
 
 ## › Installation
 
-<a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/DOWNLOAD-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Download" height="35"/></a>
+<a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/DOWNLOAD-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Download" width="170" height="40"/></a>
 
 1. **Extract** the archive
 2. **Password:** `see pinned comment`
@@ -29,45 +29,45 @@
 ## ✦ Features
 
 <details>
-<summary><b>Integer Scaling</b> — exact pixel multiplication with no interpolation</summary>
+<summary><b>Integer Scaling</b> — pixel-perfect enlargement without blur</summary>
 <br>
-Multiplies every source pixel by a whole number (2x, 3x, 4x, etc.) while keeping edges perfectly sharp. Great for pixel art and retro titles.
+Multiplies each source pixel by a whole number to keep every detail sharp. Ideal for retro games, pixel art, and applications where clarity matters more than smoothness.
 </details>
 
 <details>
-<summary><b>Fractional Scaling</b> — clean upscaling to any custom resolution</summary>
+<summary><b>Fractional Scaling</b> — clean resizing for any resolution</summary>
 <br>
-Supports non-integer scale factors with advanced sharpening and reconstruction algorithms to minimize blur while maintaining clarity.
+Applies precise scaling factors between integers while preserving sharpness better than standard bilinear or bicubic methods.
 </details>
 
 <details>
-<summary><b>Real-time Window Capture</b> — works with any running application</summary>
+<summary><b>Frame Generation</b> — higher perceived frame rate</summary>
 <br>
-Hook into any foreground window or fullscreen game without requiring modifications to the target program.
+Creates additional frames between existing ones to make motion feel smoother, especially useful on lower-FPS content or high-refresh-rate monitors.
 </details>
 
 <details>
-<summary><b>Multiple Scaling Algorithms</b> — choose the best look for your content</summary>
+<summary><b>Window Targeting</b> — works with any application</summary>
 <br>
-Includes options optimized for games, text, UI elements, and general desktop use.
+Select any running window or full screen application. The tool captures and processes output in real time without requiring game-specific hooks.
 </details>
 
 <details>
-<summary><b>Hotkey Support</b> — quick toggle and adjustment</summary>
+<summary><b>Low Overhead</b> — minimal performance impact</summary>
 <br>
-Assign global hotkeys to enable/disable scaling, change scale factor, or switch between modes instantly.
+Optimized rendering pipeline that runs efficiently even on modest hardware while delivering visible quality improvements.
 </details>
 
 <details>
-<summary><b>Lightweight &amp; Efficient</b> — minimal performance impact</summary>
+<summary><b>Custom Hotkeys</b> — quick control without leaving your workflow</summary>
 <br>
-Runs with very low CPU and GPU overhead, allowing smooth operation even on modest hardware.
+Assign shortcuts to toggle scaling, change modes, or adjust parameters on the fly.
 </details>
 
 <details>
-<summary><b>Borderless Window Mode</b> — clean fullscreen experience</summary>
+<summary><b>Multiple Display Support</b> — flexible across setups</summary>
 <br>
-Automatically handles window borders and maintains proper aspect ratio when scaling.
+Handles primary and secondary monitors with independent scaling profiles if needed.
 </details>
 
 ## › System Requirements
@@ -76,24 +76,25 @@ Automatically handles window borders and maintains proper aspect ratio when scal
 <tr><td><b>OS</b></td><td>Windows 10 / 11 (64-bit)</td></tr>
 <tr><td><b>GPU</b></td><td>DirectX 11 compatible or newer</td></tr>
 <tr><td><b>RAM</b></td><td>4 GB or more</td></tr>
+<tr><td><b>Storage</b></td><td>Less than 50 MB</td></tr>
 </table>
 
 ## › FAQ
 
-**Q: Does it work with games that use exclusive fullscreen?**  
-A: Yes, it supports both borderless windowed and exclusive fullscreen modes for most applications.
+**Q: Does it work with games that use anti-cheat?**  
+A: Yes, because it operates on the output window rather than injecting into the game process.
 
-**Q: Will this improve performance in older games?**  
-A: No, Lossless Scaling does not add performance. It only improves visual quality when upscaling.
+**Q: Can I use it on a 4K monitor with 1080p content?**  
+A: Absolutely. Integer scaling will keep the image crisp instead of blurring it like standard scaling.
 
-**Q: Can I use it with multiple monitors?**  
-A: Yes, you can choose which monitor or window to apply scaling to.
+**Q: Is frame generation suitable for competitive gaming?**  
+A: It adds latency similar to other interpolation methods, so it is better suited for single-player or casual use.
 
-**Q: Is the scaling applied system-wide?**  
-A: No, it targets only the selected window or application.
+**Q: Will it conflict with my GPU control panel settings?**  
+A: No, it works on top of existing driver settings and does not override them.
 
 **Q: Does it require administrator rights?**  
-A: No, the application runs with standard user privileges.
+A: No, the application runs with standard user permissions.
 
 ---
 <div align="center">
