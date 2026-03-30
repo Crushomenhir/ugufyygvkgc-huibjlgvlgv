@@ -1,93 +1,68 @@
-![Version](https://img.shields.io/badge/Version-1.0.0-1f6feb?style=for-the-badge&logo=github) ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active-2ecc71?style=for-the-badge) ![Updated](https://img.shields.io/badge/Updated-2026-27ae60?style=for-the-badge&logo=calendar&logoColor=white) ![Language](https://img.shields.io/badge/Language-English-8e44ad?style=for-the-badge) ![Type](https://img.shields.io/badge/Tool-Graphics%20Enhancer-e67e22?style=for-the-badge)
+<div align="center">
+<h1>lossless scaling</h1>
 
-# 🎯 Lossless Scaling
-*Enhance visuals without compromise — pixel-perfect scaling made effortless.*
+*Real resolution freedom for your Windows desktop.*
 
----
+![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge)
+![License: Free](https://img.shields.io/badge/License-Free-00C853?style=for-the-badge)
 
-### 🖼️ Screenshot
-![image](https://github.com/user-attachments/assets/d8cb1d2a-947d-4caa-92bb-91d17add661f)
+[![Download](https://img.shields.io/badge/⬇%20DOWNLOAD-brightgreen?style=for-the-badge)](YOUR_DOWNLOAD_LINK_HERE)
 
+</div>
 
----
+<div align="center">
+  <img src="assets/image.png" width="780" alt="screenshot"/>
+</div>
 
-### 📖 Description
-> Lossless Scaling is a powerful graphics utility designed to upscale games and applications without sacrificing image quality. It eliminates blur, preserves sharpness, and delivers a native-like experience even at non-native resolutions. Ideal for gamers, developers, and power users who demand visual precision. Whether you're optimizing performance or enhancing clarity, Lossless Scaling provides seamless results.
+I built Lossless Scaling because I got tired of blurry upscaling, forced aspect ratios, and half-baked integer scaling that only works in games. This is a simple, no-nonsense desktop utility that lets you scale any window or the entire screen with true lossless algorithms — sharp pixels when you want them, smart filtering when you need smoothness.
 
----
+Whether you're running old software on a 4K monitor, testing UI at different resolutions, or just want pixel-perfect control over how things look on your display, this tool gets out of your way and does exactly what it says.
 
-### ⬇️ Download
+## ✦ Features
 
-<a href="REPLACE_WITH_DOWNLOAD_LINK"><img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%AC%87%EF%B8%8F%20%20DOWNLOAD%20NOW%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-2ea44f?style=for-the-badge" height="60" width="400" alt="Download Now"></a>
+- 🖼️ **Lossless Integer Scaling** — Perfect crisp scaling for retro apps and pixel art without any blur
+- 🎨 **Smart Fractional Scaling** — Clean upscaling for modern interfaces with minimal artifacts
+- 🪟 **Any Window or Fullscreen** — Scale individual windows or capture the entire desktop
+- ⚡ **Real-time Preview** — See changes instantly, no restarting apps
+- 📏 **Custom Scale Factors** — From 1.0x up to 8.0x and everything in between
+- 🖥️ **Multi-monitor Support** — Works across different displays with different DPI
+- 🔄 **Hotkey Support** — Quick toggle and preset switching without touching the mouse
 
-*← Replace `REPLACE_WITH_DOWNLOAD_LINK` with your actual download URL*
+## ⚙️ Requirements
 
----
+- Windows 10 or Windows 11 (64-bit)
+- DirectX 11 compatible GPU (most systems from the last 10 years)
+- Administrator rights for fullscreen capture mode
 
-## ✨ Features
-- 🧠 Intelligent scaling algorithms for crisp visuals  
-- 🎮 Optimized for gaming performance and low latency  
-- 🖥️ Supports windowed and borderless fullscreen modes  
-- ⚡ Real-time upscaling without noticeable delay  
-- 🎨 Multiple scaling filters and customization options  
-- 🔧 Lightweight and portable — no installation needed  
-- 🔍 Pixel-perfect rendering with zero blur artifacts  
-- 🛠️ Works with most DirectX and OpenGL applications  
+## 📦 Installation
 
----
+1. Download the latest archive:
 
-## 🚀 Installation
+[![Download](https://img.shields.io/badge/⬇%20Download-blue?style=flat-square)](YOUR_DOWNLOAD_LINK_HERE)
 
-1. Download the archive via the **Download button** above  
-2. Extract the archive to any folder  
-3. Enter the archive password:  
+2. Extract the archive
+3. Archive password: `see pinned comment`
+4. Run `LosslessScaling.exe`
 
-> 🔑 **Archive password:** `REPLACE_WITH_PASSWORD`  
-> *← Replace `REPLACE_WITH_PASSWORD` with the actual archive password*  
-
-4. Run the `.exe` file — no installation required  
-
-<a href="REPLACE_WITH_DOWNLOAD_LINK"><img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%AC%87%EF%B8%8F%20%20DOWNLOAD%20NOW%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-6e7681?style=for-the-badge" height="50" width="400" alt="Download Now"></a>
-
----
-
-## 💻 System Requirements
-
-| Component | Minimum              | Recommended           |
-|----------|---------------------|-----------------------|
-| OS       | Windows 10          | Windows 11            |
-| CPU      | Dual-core 2.0 GHz   | Quad-core 3.0 GHz     |
-| RAM      | 4 GB                | 8 GB                  |
-| GPU      | Integrated Graphics | Dedicated GPU (GTX+)  |
-| Disk     | 100 MB              | 200 MB                |
-
----
-
-## ⚙️ How It Works
-
-1. Launch Lossless Scaling and select your target application  
-2. Choose your preferred scaling method and settings  
-3. Activate scaling mode before or during app runtime  
-4. Enjoy enhanced visuals with preserved sharpness  
-
----
+No installer, no background services, no telemetry. Just the app.
 
 ## ❓ FAQ
 
-**Q: Does this reduce performance?**  
-A: Minimal impact — optimized for efficiency with near-zero latency.
+**Q: Does it work with games?**  
+A: Yes, but results vary. It works great for windowed or borderless games. Fullscreen exclusive games may need additional setup.
 
-**Q: Can I use it with any game?**  
-A: Yes, it supports most windowed or borderless applications.
+**Q: Is this a one-time purchase or subscription?**  
+A: Completely free. No hidden payments, no accounts, no nagging.
 
-**Q: Is installation required?**  
-A: No, it is fully portable and runs instantly.
+**Q: Will it slow down my system?**  
+A: The overhead is minimal on modern hardware. Most users won't notice any difference.
+
+**Q: Can I use it with multiple monitors of different resolutions?**  
+A: Yes. You can choose which monitor or window to scale independently.
+
+**Q: Why is the download behind a password?**  
+A: To prevent direct hotlinking and keep the file on my hosting. The password is always in the pinned comment of the release.
 
 ---
 
-## 🔍 Keywords
-lossless scaling, image upscaling, game enhancer, resolution scaling, graphics tool, pixel perfect, no blur scaling, gaming utility, screen scaling, visual enhancement, performance boost, scaling software, windows tool, display optimizer
-
----
-
-Made with ❤️ | If you find this useful, please ⭐ the repo!
+<div align="center"><sub>© 2025 lossless scaling — All rights reserved</sub></div>
