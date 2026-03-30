@@ -4,7 +4,7 @@
 <br>
 # lossless scaling
 <br>
-<em>Integer scaling done right — crisp pixels, zero blur, your way.</em>
+<em>Integer-only upscaling that actually respects your pixels.</em>
 <br><br>
 ![platform](https://img.shields.io/badge/platform-Windows-0d1117?style=flat-square&labelColor=21262d&logo=windows&logoColor=white) ![license](https://img.shields.io/badge/license-MIT-0d1117?style=flat-square&labelColor=21262d) ![release](https://img.shields.io/badge/release-latest-0d1117?style=flat-square&labelColor=21262d)
 <br>
@@ -16,23 +16,23 @@
   <img src="assets/image.png" width="780" alt="screenshot"/>
 </div>
 
-Lossless Scaling is a compact Windows desktop utility that lets you scale any window or game with perfect pixel precision. No blur, no stretching artifacts — just clean, sharp results whether you're running retro titles at 4K or modern apps on high-DPI displays.
+Lossless Scaling is a small desktop utility that lets you scale any window or game to any resolution without introducing blur, color bleeding or unwanted sharpening. It works in real time, stays out of your way, and does one thing only: clean, mathematically precise integer scaling.
 
-Built for people who actually care how things look on screen. One executable, no services, no telemetry. It stays out of your way until you need it.
+Built for people who still notice the difference between a properly scaled image and everything else.
 
 ## ✦ Features
-- **Integer Scaling** — Multiplies pixels by whole numbers for perfect sharpness
-- **Custom Scaling Factors** — Fine-tune from 1x up to 8x or any value in between
-- **Real-time Preview** — See changes instantly without restarting your app
-- **Per-Window Profiles** — Save and restore settings for individual windows
-- **Hotkey Support** — Quick activation with a single key combination
-- **Borderless Window Handling** — Works cleanly with games and fullscreen apps
-- **Lightweight & Portable** — Runs directly from the extracted folder
+- **Integer scaling** — Every output pixel is formed by one or more identical input pixels. No interpolation.
+- **Aspect ratio control** — Keep original proportions or stretch exactly as you need.
+- **Real-time window capture** — Works with any foreground window, games in borderless or fullscreen.
+- **Hotkey support** — One key to toggle scaling on and off.
+- **Lightweight & self-contained** — Single executable, no background processes, no telemetry.
+- **Per-window memory** — Remembers your scaling settings for each application.
+- **Zero visual artifacts** — Designed to preserve the exact look of pixel art, retro games and sharp UI.
 
 ## › Requirements
 - Windows 10 or Windows 11 (64-bit)
-- DirectX 11 compatible graphics card
-- No additional runtime dependencies
+- DirectX 11 compatible GPU
+- Administrator rights not required
 
 ## › Installation
 [![Download](https://img.shields.io/badge/DOWNLOAD-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_LINK_HERE)
@@ -40,25 +40,28 @@ Built for people who actually care how things look on screen. One executable, no
 1. Extract the archive
 2. Archive password: `see pinned comment`
 3. Run the `.exe` file
+
 *No installer. No background services. Just the app.*
 
 ## › FAQ
-**Q: Does it work with games?**  
-A: Yes. It handles both windowed and borderless fullscreen modes well. Some exclusive fullscreen titles may need borderless mode enabled first.
+
+**Q: Does it work with games running in exclusive fullscreen?**  
+A: It works best with borderless windowed mode. Exclusive fullscreen is usually locked by the game itself.
 
 **Q: Will it affect performance?**  
-A: The overhead is minimal. Most users notice no measurable FPS drop.
+A: The scaling itself has negligible overhead. Your game or application continues to render at its native resolution.
 
-**Q: Can I use it with multiple monitors?**  
-A: Absolutely. You can apply different scaling to windows on different displays.
+**Q: Can I use it with emulators or pixel art software?**  
+A: Yes. This is exactly what it was made for. Perfect pixel grid is preserved at any integer multiple.
 
-**Q: Is there a way to toggle it quickly?**  
-A: Yes — assign a global hotkey in settings for instant on/off.
+**Q: Is there any sharpening or post-processing added?**  
+A: None. The output is bit-exact to what pure integer scaling produces.
 
-**Q: Do you collect any data?**  
-A: No. The app runs completely offline with zero telemetry.
+**Q: Why is the download behind a password?**  
+A: To prevent automated scrapers and mirrors from distributing outdated or modified builds.
 
 ---
+
 <div align="center">
 <sub>© 2026 lossless scaling · All rights reserved</sub>
 </div>
