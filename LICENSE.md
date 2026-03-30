@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/image.png" width="780" alt="screenshot"/>
+  <img src="assets/image.png" alt="screenshot"/>
 </div>
 
 > Lossless Scaling is a compact Windows utility that lets you apply high-quality upscaling and frame generation to any windowed or borderless game. It gives you control over resolution and smoothness even when the original title offers none.
