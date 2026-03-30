@@ -24,7 +24,7 @@
 <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/DOWNLOAD-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Download" width="170" height="40"/></a>
 
 1. **Extract** the archive
-2. **Password:** `1234`
+2. **Password:** `see pinned comment`
 3. **Run** the `.exe` file
 
 ## ✦ Features
